@@ -1,9 +1,11 @@
 # Data-analysis-project-using-excel of vrinda store 
-Objective:
+
+# Objective:
 Vrinda Store aims to analyze 2022 sales for strategic growth in 2023.
 
 # Key Questions:
 1)Compare monthly sales and orders and also find the month that has got the highest sales and orders.
+
 2)Analyze gender-based purchasing in 2022.
 3)Identify order status.
 4)Determine top 5 sales states.
