@@ -3,13 +3,13 @@ Objective:
 Vrinda Store aims to analyze 2022 sales for strategic growth in 2023.
 
 # Key Questions:
-Compare monthly sales and orders and also find the month that has got the highest sales and orders.
-Analyze gender-based purchasing in 2022.
-Identify order status.
-Determine top 5 sales states.
-Explore age-gender order relations.
-Identify top sales channel.
-Determine the highest selling category.
+1)Compare monthly sales and orders and also find the month that has got the highest sales and orders.
+2)Analyze gender-based purchasing in 2022.
+3)Identify order status.
+4)Determine top 5 sales states.
+5)Explore age-gender order relations.
+6)Identify top sales channel.
+7)Determine the highest selling category.
 
 # Analysis:
 Data understanding.
