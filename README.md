@@ -12,20 +12,20 @@ Vrinda Store aims to analyze 2022 sales for strategic growth in 2023.
 7)Determine the highest selling category.
 
 # Analysis:
-Data understanding.
-Cleaned data (removing duplicates, null values).
-Age group column creation using IF function.
-Utilized Pivot tables for summarization.
-Developed charts and graphs for visualization.
-Constructed an interactive dashboard with slicers.
+1)Data understanding.
+2)Cleaned data (removing duplicates, null values).
+3)Age group column creation using IF function.
+4)Utilized Pivot tables for summarization.
+5)Developed charts and graphs for visualization.
+6)Constructed an interactive dashboard with slicers.
 
 # Key Insights:
-The highest sales and orders were recorded in the month of March.
-Women made more purchases than men.
-Maximum order status was seen to be delivered
-Top 5 sales states: Maharashtra, Karnataka, Uttar Pradesh, Telangana, Tamil Nadu.
-Highest orders from adult women.
-Top sales channels: Amazon, Myntra, Flipkart.
+1)The highest sales and orders were recorded in the month of March.
+2)Women made more purchases than men.
+3)Maximum order status was seen to be delivered
+4)Top 5 sales states: Maharashtra, Karnataka, Uttar Pradesh, Telangana, Tamil Nadu.
+5)Highest orders from adult women.
+6)Top sales channels: Amazon, Myntra, Flipkart.
 
 # Conclusion:
 To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in top 5 states must be targeted   by giving more discounts, offers,coupons, and gifts available on Amazon, Flipkart and Myntra.
